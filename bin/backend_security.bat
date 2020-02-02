@@ -1,0 +1,1 @@
+java -jar todo-list-api-security.jar
